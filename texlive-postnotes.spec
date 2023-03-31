@@ -1,6 +1,6 @@
 Name:		texlive-postnotes
 Version:	65007
-Release:	1
+Release:	2
 Summary:	Endnotes for LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/postnotes
