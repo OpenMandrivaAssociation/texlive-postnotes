@@ -3,7 +3,7 @@ Version:	69102
 Release:	1
 Summary:	Endnotes for LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/postnotes
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/postnotes
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/postnotes.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/postnotes.doc.r%{version}.tar.xz
