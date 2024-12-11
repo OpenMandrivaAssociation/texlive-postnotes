@@ -1,5 +1,5 @@
 Name:		texlive-postnotes
-Version:	69102
+Version:	73045
 Release:	1
 Summary:	Endnotes for LaTeX
 Group:		Publishing
